@@ -1,0 +1,30 @@
+# Python byte-code / caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Editor artefacts
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
